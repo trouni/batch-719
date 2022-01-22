@@ -1,3 +1,6 @@
 [submodule "lectures/data-engineering/demo-package-719"]
 	path = lectures/data-engineering/demo-package-719
 	url = https://github.com/trouni/demo-package-719
+[submodule "recaps/code-as-a-product"]
+	path = recaps/code-as-a-product
+	url = git@github.com:trouni/egoboostr719.git
