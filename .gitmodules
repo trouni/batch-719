@@ -1,3 +1,3 @@
-[submodule "lectures/demo-package-719"]
-	path = lectures/demo-package-719
+[submodule "lectures/data-engineering/demo-package-719"]
+	path = lectures/data-engineering/demo-package-719
 	url = https://github.com/trouni/demo-package-719
